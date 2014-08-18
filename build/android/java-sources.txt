@@ -1,0 +1,8 @@
+"/home/thuan/Documentos/titanium-ees/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/ApplicationStylesheet.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/AssetCryptImpl.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/R.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/TitaniumEesActivity.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/TitaniumEesAppInfo.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/com/ees/TitaniumEesApplication.java"
+"/home/thuan/Documentos/titanium-ees/build/android/gen/ti/modules/titanium/ui/R.java"
